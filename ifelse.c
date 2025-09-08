@@ -4,7 +4,6 @@ int main() {
     int a, b;
     printf("Enter a character: ");
     scanf("%c", &ch);
-
     if (ch == 's' || ch == 'S') {   
         printf("Enter two numbers: ");
         scanf("%d %d", &a, &b);
@@ -19,3 +18,4 @@ int main() {
 
     return 0;
 }
+
