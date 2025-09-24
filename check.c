@@ -8,7 +8,7 @@ int main() {
     } else {
         printf("The number %d is not greater than 10.\n", num);
     }
-
     return 0;
 }
+
 
