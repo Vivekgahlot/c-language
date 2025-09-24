@@ -10,5 +10,5 @@ int main()
   printf(" %d is not equal to %d ", x, y);
 
  return 0;
-
 }
+
