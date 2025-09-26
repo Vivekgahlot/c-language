@@ -15,7 +15,7 @@ int main() {
     } else {
         printf("Input is not matched.\n");
     }
-
     return 0;
 }
+
 
