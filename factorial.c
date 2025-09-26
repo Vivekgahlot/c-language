@@ -2,7 +2,6 @@
 
 int main() {
     int num, fact = 1, i = 1;
-
     printf("Enter a number: ");
     scanf("%d", &num);
 
@@ -15,3 +14,4 @@ int main() {
 
     return 0;
 }
+
