@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int num, i = 2, isPrime = 1;  
 
@@ -25,3 +24,4 @@ int main() {
 
     return 0;
 }
+
