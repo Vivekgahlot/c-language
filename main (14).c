@@ -9,7 +9,6 @@ int main() {
 		for (int j = 0; j < 2 * (rows - i) - 1; j++) {
 			printf(" ");
 		}
-
 		for (int k = 0; k <= i; k++) {
 			printf("* ");
 		}
@@ -18,3 +17,4 @@ int main() {
 	return 0;
 
 }
+
