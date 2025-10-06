@@ -15,6 +15,6 @@ int main()
 
  printf("Compound Interest is : %lf", CI);
  return 0;
-
 }
+
 
