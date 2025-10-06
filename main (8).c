@@ -7,7 +7,6 @@ int main()
  double principal = 2300;
 
  double rate = 7;
-
  double time = 4;
  
  double amount
@@ -18,3 +17,4 @@ int main()
  return 0;
 
 }
+
