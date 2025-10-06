@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #include <math.h>
 
 int main()
@@ -17,4 +16,5 @@ int main()
 
  printf("Compound Interest is : %lf", CI);
  return 0;
+
 }
