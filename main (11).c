@@ -1,6 +1,5 @@
 
 #include <stdio.h>
-
 int main()
 {
     int N = 5;
@@ -14,4 +13,5 @@ int main()
         printf("\n");
     }
     return 0;
+
 }
