@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int n, i, sum = 0;
     printf("Enter a number: ");
@@ -13,5 +14,6 @@ int main() {
         printf("Not Perfect");
     return 0;
 }
+
 
 
