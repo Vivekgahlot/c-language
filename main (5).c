@@ -2,7 +2,6 @@
 
 int main() {
     int i;
-
     
     i = 1;
     printf("Even numbers from 1 to 100:\n");
@@ -27,3 +26,4 @@ int main() {
 
     return 0;
 }
+
