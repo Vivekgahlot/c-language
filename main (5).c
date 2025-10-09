@@ -13,7 +13,6 @@ int main() {
     }
 
     printf("\n\n");
-
     
     i = 1;
     printf("Odd numbers from 1 to 100:\n");
@@ -26,4 +25,5 @@ int main() {
 
     return 0;
 }
+
 
