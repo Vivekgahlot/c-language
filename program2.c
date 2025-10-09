@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    
+  
     int age = 25
     float height = 5.9
     double pi = 3.14159265358979;
@@ -13,4 +13,5 @@ int main() {
 
     return 0;
 }
+
 Output
