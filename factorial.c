@@ -9,9 +9,9 @@ int main() {
         fact = fact * i;   
         i = i + 1;         
     }
-
     printf("Factorial of %d = %d\n", num, fact);
 
     return 0;
 }
+
 
