@@ -15,7 +15,6 @@ void leap_year(int year)
  else
   printf("%d is not a leap year.\n", year);
 }
-
 int main()
 {
  leap_year(2000);
@@ -23,4 +22,5 @@ int main()
  leap_year(2008);
 
  return 0;
+
 }
