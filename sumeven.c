@@ -15,7 +15,7 @@ int main() {
         b = next;
         i++;
     }
-
     printf("\n");
     return 0;
 }
+
